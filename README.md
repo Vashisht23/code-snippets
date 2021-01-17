@@ -1,5 +1,5 @@
 # code-snippets
-coding snippets for commonly used by Web Developers
+### coding snippets for commonly used by Web Developers
 # Navigation
 ### Nav-1
 #### Mobile view 

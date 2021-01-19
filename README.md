@@ -7,7 +7,7 @@
  
 #### Full view #
  <img src="Navigation/nav-1/full-width.png" width="100%">
- 
+ ***
  ### Nav-2 
  
  #### Mobile view 
@@ -15,7 +15,7 @@
  
  ### Full view #
  <img src="Navigation/nav-2/full-width.png" width="100%">
- 
+ ***
  ### Nav-3
  
  #### Mobile view 
@@ -23,3 +23,4 @@
  
  ### Full view #
  <img src="Navigation/nav-3/full-width.png" width="100%">
+ ***

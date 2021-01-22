@@ -1,0 +1,149 @@
+/*
+ * Basic CSS starts 
+ */
+ 
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,400i,700');
+
+body{
+	color: #252c37;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	-webkit-font-smoothing: antialiased;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+}
+
+p{
+	margin:0;
+	padding:0;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+a:hover,a:active,a:focus {
+	outline: 0;
+	text-decoration: none;
+}
+
+:active {
+	outline: none;
+}
+:focus {
+	outline:none;
+	outline-width: 0;
+}
+
+::-moz-focus-inner {
+	border:0;
+}
+
+/* 
+ * Basic CSS ends 
+ */
+ 
+/* header */
+/* navigation */
+
+.navbar {
+	margin-top: 40px;
+	border: 0;
+	border-radius:0;
+	box-shadow: none;
+	background: rgba(0,0,0,0.25);
+	-webkit-transition: all 0.25s ease;
+	-moz-transition: all 0.25s ease;
+	-ms-transition: all 0.25s ease;
+	-o-transition: all 0.25s ease;
+	transition: all 0.25s ease;
+}
+
+.navbar.comeup {margin-top: 0;background: rgba(0,0,0,0.9);}
+.navbar-default .navbar-nav>li>a {
+	padding: 25px 20px;
+	font-size: 15px;
+	font-weight: 700;
+}
+
+.navbar-default .navbar-toggle .icon-bar {background: #eeeeee;}
+.navbar-default .navbar-toggle {border-radius: 0;}
+.navbar-default .navbar-toggle:hover, 
+.navbar-default .navbar-toggle:focus{background: transparent;}
+
+.navbar-brand>img {
+	width: 100%;
+	max-width: 130px;
+}
+
+/* secondary menu */
+
+.secondary-menu {
+	position: fixed;
+	z-index: 99999;
+	width: 100%;
+	background: rgba(0,0,0,0.9);
+}
+.secondary-menu .sm-left {
+	float: left;
+	text-align: left;
+}
+
+.secondary-menu .sm-left a {
+	color: #ccc;
+}
+
+.secondary-menu .sm-right {
+	float: right;
+	text-align: right;
+}
+
+.secondary-menu .sm-left,
+.secondary-menu .sm-right {
+	line-height: 40px;
+	color: #fff;
+}
+
+.secondary-menu .sm-social-link a {
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	font-size: 14px;
+	color: #fff;
+	text-align: center;
+	background: rgba(0,0,0,0.3);
+}
+
+/*
+ * Tablets 
+ */
+@media (max-width: 767px){
+	.navbar-default .navbar-collapse {
+		border-color: rgba(0,0,0,0.15);
+		box-shadow: none;
+	}
+	
+	.navbar-default .navbar-brand {padding-top: 5px;}
+	.navbar-default .navbar-brand>img {max-width: 140px;}
+	
+	.navbar, .navbar.comeup { margin-top: 0; padding: 10px 0; background: rgba(0,0,0,0.9);}
+	header .navbar-default .navbar-nav>li>a, header .navbar-default .navbar-nav>li.active>a,
+	header .navbar-default .navbar-nav>li.active>a:hover, header .navbar-default .navbar-nav>li>a:hover	{ 
+		padding-top: 8px;
+		padding-bottom: 8px;
+		background: none;
+	}
+	.navbar .navbar-nav {margin-top: 0;}
+	.secondary-menu {display: none;}
+	
+}

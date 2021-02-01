@@ -36,10 +36,10 @@
   ### Nav-5
  ***
  #### Mobile view 
- <img src="Navigation/nav-5/mobile-width.png" width="40%">
+ <img src="Navigation/nav-5/images/expanded.png" width="100%">
  
  ### Full view #
- <img src="Navigation/nav-5/full-width.png" width="100%">
+ <img src="Navigation/nav-5/images/full-width.png" width="100%">
  
   ### Sidebar-Navigation
  ***

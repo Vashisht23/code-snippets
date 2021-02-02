@@ -43,6 +43,11 @@
  
   ### Sidebar-Navigation
  ***
- #### Mobile view 
+ ### Sidebar-Nav
+ #### Expanded view 
  <img src="Navigation/sidebar-nav/expanded.png" width="40%">
+ 
+  ### Sidebar-Nav-2
+ #### Expanded view 
+ <img src="Navigation/sidebar-nav-2/expanded.png" width="40%">
 

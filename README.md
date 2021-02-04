@@ -50,4 +50,15 @@
   ### Sidebar-Nav-2
  #### Expanded view 
  <img src="Navigation/sidebar-nav-2/expanded.png" width="40%">
+ 
+ 
+ 
+ # Footer
+***
+### Footer-1
+ <img src="/Footer/Footer-1/image.png" width="100%">
+ 
+***
+### Footer-2
+ <img src="/Footer/Footer-2/image.png" width="100%">
 

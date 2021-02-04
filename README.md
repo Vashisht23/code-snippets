@@ -60,4 +60,4 @@
  
 ***
 ### Footer-2
- <img src="/Footer/Footer-2/image.png" width="100%">
+ <img src="/Footer/footer-2/image.png" width="100%">

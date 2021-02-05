@@ -1,0 +1,112 @@
+
+#footer {
+    background: #41444B;
+    color: rgba(255, 255, 255, 0.6);
+  }
+  #footer a {
+    color: rgba(255, 255, 255, 0.6);
+  }
+  #footer a:hover {
+    color: #fff !important;
+    text-decoration: underline;
+  }
+  #footer .section-title {
+    font-size: 22px;
+    color: #fff;
+    position: relative;
+    padding-bottom: 20px;
+  }
+  #footer .copy-right {
+    position: relative;
+    padding-top: 20px;
+    margin-top: 40px;
+  }
+  #footer .copy-right > a {
+    color: rgba(255, 255, 255, 0.6);
+  }
+  #footer .contact-info {
+    margin: 0 0 60px 0;
+    padding: 0;
+  }
+  #footer .contact-info li {
+    font-size: 16px;
+    list-style: none;
+    margin: 0 0 20px 0;
+    position: relative;
+    padding-left: 40px;
+  }
+  #footer .contact-info li i {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 22px;
+    color: #00ADB5;
+  }
+  #footer .social-media {
+    margin: 0 0 30px 0;
+    padding: 0;
+  }
+  #footer .social-media li {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+    margin-right: 10px;
+  }
+  #footer .social-media li a {
+    color: #00ADB5;
+  }
+  #footer .social-media li a:hover, #footer .social-media li a:focus, #footer .social-media li a:active {
+    text-decoration: none;
+  }
+  #footer .contact-form .form-group input[type="name"],
+  #footer .contact-form .form-group input[type="text"],
+  #footer .contact-form .form-group input[type="email"],
+  #footer .contact-form .form-group textarea {
+    font-size: 16px;
+  }
+  #footer .contact-form .form-group input[type="name"]::-webkit-input-placeholder,
+  #footer .contact-form .form-group input[type="text"]::-webkit-input-placeholder,
+  #footer .contact-form .form-group input[type="email"]::-webkit-input-placeholder,
+  #footer .contact-form .form-group textarea::-webkit-input-placeholder {
+    color: rgba(255, 255, 255, 0.5);
+  }
+  #footer .contact-form .form-group input[type="name"]:-moz-placeholder,
+  #footer .contact-form .form-group input[type="text"]:-moz-placeholder,
+  #footer .contact-form .form-group input[type="email"]:-moz-placeholder,
+  #footer .contact-form .form-group textarea:-moz-placeholder {
+    /* Firefox 18- */
+    color: rgba(255, 255, 255, 0.5);
+  }
+  #footer .contact-form .form-group input[type="name"]::-moz-placeholder,
+  #footer .contact-form .form-group input[type="text"]::-moz-placeholder,
+  #footer .contact-form .form-group input[type="email"]::-moz-placeholder,
+  #footer .contact-form .form-group textarea::-moz-placeholder {
+    /* Firefox 19+ */
+    color: rgba(255, 255, 255, 0.5);
+  }
+  #footer .contact-form .form-group input[type="name"]:-ms-input-placeholder,
+  #footer .contact-form .form-group input[type="text"]:-ms-input-placeholder,
+  #footer .contact-form .form-group input[type="email"]:-ms-input-placeholder,
+  #footer .contact-form .form-group textarea:-ms-input-placeholder {
+    color: rgba(255, 255, 255, 0.5);
+  }
+  #footer .contact-form .form-group input {
+    color: #fff;
+    background: transparent;
+    border: none;
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: none;
+  }
+  #footer .contact-form .form-group textarea {
+    color: #fff;
+    background: transparent;
+    border: none;
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: none;
+  }
+  #footer #btn-submit {
+    color: rgba(255, 255, 255, 0.9) !important;
+    background: #FA5555 !important;
+  }
+  

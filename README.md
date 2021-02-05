@@ -64,8 +64,13 @@
  
    ### Footer-3
  ***
- #### Expanded view 
+ #### Mobile view 
  <img src="Footer/footer-3/mobile-width.png" width="40%">
  
  ### Full-page view #
  <img src="Footer/footer-3/full-width.png" width="100%">
+
+   ### Footer-4
+ ***
+ ### Full-page view 
+ <img src="Footer/footer-4/full-width.png" width="100%">

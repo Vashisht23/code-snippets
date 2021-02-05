@@ -77,5 +77,5 @@
  
  ### Footer-5 
  ***
- (Codepen)[https://codepen.io/scanfcode/pen/MEZPNd]
+ [Codepen](https://codepen.io/scanfcode/pen/MEZPNd)
   <img src="Footer/footer-5/full-width.png" width="100%">
